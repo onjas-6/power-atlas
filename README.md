@@ -8,6 +8,7 @@ Inspired by [Dylan Patel's conversation with Dwarkesh Patel](https://www.youtube
 
 ## Explore
 
+- A playable 2025–2030 time axis, with scrub, pause/replay and playback speed. IEA global AI and the conditional Dwarkesh lab scenario share a chart; numerical values and city-equivalent squares update together.
 - A 1,000-tile world view showing the AI share, with a switch to data centres alone.
 - 38 reference entities, including 26 countries and five cities. Linear bars and area-proportional squares put them on a shared scale.
 - Annual electricity in TWh and average power in GW.
@@ -32,6 +33,9 @@ Then open http://localhost:4173. Serve over HTTP: opening index.html directly ma
 dist/index.html     Page structure and explanatory text
 dist/styles.css     Responsive visual design
 dist/app.js         Interactive charts and calculations
+dist/timeline-model.js Scenario math
+dist/timeline.js    Animation and timeline controls
+dist/timeline.css   Timeline styling
 dist/data.json      Entities, annual series, provenance and forecast endpoints
 dist/data.csv       Downloadable entity data
 scripts/validate.py Data and asset consistency checks
@@ -74,6 +78,8 @@ Validate before publishing:
 ```sh
 python3 scripts/validate.py
 node --check dist/app.js
+node --check dist/timeline.js
+node scripts/validate-timeline.cjs
 ```
 
 Manual validation covered desktop and 390-pixel mobile layouts, world/data-centre scope, categories, unit conversion, comparisons, company history, the year slider, scenario presets and facility boundaries, PUE and source expansion. Native controls are keyboard accessible; charts have text equivalents, and reduced motion is respected.
@@ -83,3 +89,7 @@ Manual validation covered desktop and 390-pixel mobile layouts, world/data-centr
 Original code and design are MIT licensed; see [LICENSE](LICENSE). Third-party reports and source datasets retain their original rights and attribution requirements. In particular, Ember data is CC BY 4.0 and Our World in Data material carries its stated CC BY attribution. No full third-party reports are redistributed in this repository.
 
 Created with GPT-6 in Codex, September 2026.
+
+### Animated scenario
+
+The orange timeline applies 6, 18 and 54 GW **per lab** at end-2026, end-2027 and end-2028. Default: two labs, 80% average electrical load and 1.2 PUE, yielding approximately 100.9, 302.7 and 908.2 TWh/year. These are full-year run rates at year-end capacity, not measured consumption in those calendar years. The orange path is never extrapolated outside 2026–2028; it is not added to the global IEA series. Interpolation is exponential between anchors. All shares use a fixed 2025 world denominator. Playback is opt-in, stops at the endpoint and pauses when the page is hidden. Native year buttons offer an alternative to motion.

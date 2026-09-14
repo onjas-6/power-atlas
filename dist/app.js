@@ -131,5 +131,6 @@ function init(data){
  function revealSource(){if(location.hash.startsWith('#source-')){const el=document.getElementById(location.hash.slice(1));if(el){el.open=true;el.scrollIntoView({behavior:'smooth',block:'start'})}}}
  window.addEventListener('hashchange',revealSource);
  renderRanking();renderComparison();renderTrend();renderScenario();renderChain();renderCompanies();revealSource();
+ window.PowerAtlasData=DATA;document.dispatchEvent(new CustomEvent('atlas-ready',{detail:DATA}));
 }
 fetch('data.json').then(r=>{if(!r.ok)throw Error('Data unavailable');return r.json()}).then(init).catch(()=>{$('#ranking').innerHTML='<p class="error-message">The dataset could not load. Please reload the page, or <a href="data.csv">download the data</a>.</p>'});
