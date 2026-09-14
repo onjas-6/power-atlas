@@ -1,0 +1,39 @@
+entity,category,period,electricity_TWh,status,boundary,source_url
+China,country,2025,10563.9,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+United States,country,2025,4535.81,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+India,country,2025,2082.82,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Russia,country,2025,1176.11,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Japan,country,2025,1029.86,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Brazil,country,2025,762.12,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Canada,country,2025,645.64,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+South Korea,country,2025,624.66,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Germany,country,2025,520.27,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+France,country,2025,476.66,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Saudi Arabia,country,2024,454.59,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Mexico,country,2025,356.66,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Indonesia,country,2024,372.5,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+United Kingdom,country,2025,321.38,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Turkey,country,2025,351.93,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Italy,country,2025,311.6,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Taiwan,country,2025,288.39,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Australia,country,2025,286.34,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Spain,country,2025,275.1,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Vietnam,country,2025,313.59,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+South Africa,country,2025,236.84,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Sweden,country,2025,137.11,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Norway,country,2025,137.71,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Netherlands,country,2025,121.11,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Ireland,country,2025,37.64,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+Singapore,country,2025,60.44,Reported,"National electricity demand, including system losses",https://ourworldindata.org/grapher/electricity-demand
+AI-focused data centres,ai,2025,155,Estimated,"Global AI-focused facilities, including cooling and support",https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use
+All data centres,ai,2025,485,Estimated,Global data centres; AI included; excludes cryptocurrency mining,https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary
+Shanghai,city,2024,198.4,Reported,Entire municipality · includes industrial districts,https://www.shanghai.gov.cn/gwk/search/content/85542effedb547708e2cd04221c5a80a
+Beijing,city,2024,138.94,Reported,Entire municipality,https://www.beijing.gov.cn/renwen/bjgk/rmsh/gysy/202503/t20250325_4043728.html
+Singapore,city,2024,58,Reported,"City-state · final consumption, rounded",https://www.ema.gov.sg/resources/singapore-energy-statistics/chapter3
+New York City,city,2024 ref.,50,Approximate,"NYC · approximate annual benchmark, citing NYISO 2024",https://climate.cityofnewyork.us/subtopics/systems/
+London,city,2024,34.800715594,Reported,Greater London · metered electricity only,https://www.gov.uk/government/statistics/regional-and-local-authority-electricity-consumption-statistics
+Google,company,2025,43.5866,Reported,Company operations · data centres + offices · calendar year,https://sustainability.google/files/1699a2e19277e478b38a659f00cb38398a836e8c/download-1699a2e1.pdf#page=93
+Microsoft,company,FY2025,37.026353,Reported,Company operations · fiscal year ended 30 June 2025,https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf#page=6
+Meta,company,2024,18.423634,Reported,Company operations · data centres + offices · calendar year,https://sustainability.atmeta.com/asset/2025-environmental-data-index/#page=6
+TSMC,other,2024,25.53408,Derived,Purchased electricity · all chip manufacturing and company operations,https://esg.tsmc.com.tw/en-US/file/public/2024-TSMC-Sustainability-Report-e.pdf#page=120
+Bitcoin mining,other,Jun 2024 run rate,138,Estimated,"Annualised global mining electricity, not annual measured consumption",https://www.jbs.cam.ac.uk/wp-content/uploads/2025/04/2025-04-cambridge-digital-mining-industry-report.pdf#page=9

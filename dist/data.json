@@ -1,0 +1,752 @@
+{
+  "updated": "2026-09-14",
+  "world": 31772.35,
+  "worldYear": 2025,
+  "entities": [
+    {
+      "id": "chn",
+      "name": "China",
+      "kind": "country",
+      "value": 10563.9,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 7762.03,
+        "2021": 8520.02,
+        "2022": 8835.76,
+        "2023": 9439.37,
+        "2024": 10069.88,
+        "2025": 10563.9
+      }
+    },
+    {
+      "id": "usa",
+      "name": "United States",
+      "kind": "country",
+      "value": 4535.81,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 4090.49,
+        "2021": 4192.93,
+        "2022": 4328.1,
+        "2023": 4272.81,
+        "2024": 4404.83,
+        "2025": 4535.81
+      }
+    },
+    {
+      "id": "ind",
+      "name": "India",
+      "kind": "country",
+      "value": 2082.82,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 1563.32,
+        "2021": 1678.69,
+        "2022": 1802.88,
+        "2023": 1916.2,
+        "2024": 2034.22,
+        "2025": 2082.82
+      }
+    },
+    {
+      "id": "rus",
+      "name": "Russia",
+      "kind": "country",
+      "value": 1176.11,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 1074.68,
+        "2021": 1135.73,
+        "2022": 1150.54,
+        "2023": 1161.72,
+        "2024": 1192.91,
+        "2025": 1176.11
+      }
+    },
+    {
+      "id": "jpn",
+      "name": "Japan",
+      "kind": "country",
+      "value": 1029.86,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 1011.03,
+        "2021": 1034.67,
+        "2022": 1040.57,
+        "2023": 1006.73,
+        "2024": 1016.39,
+        "2025": 1029.86
+      }
+    },
+    {
+      "id": "bra",
+      "name": "Brazil",
+      "kind": "country",
+      "value": 762.12,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 653.48,
+        "2021": 679.5,
+        "2022": 690.07,
+        "2023": 723.23,
+        "2024": 757.31,
+        "2025": 762.12
+      }
+    },
+    {
+      "id": "can",
+      "name": "Canada",
+      "kind": "country",
+      "value": 645.64,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 598.25,
+        "2021": 605.11,
+        "2022": 612.97,
+        "2023": 613.63,
+        "2024": 624.36,
+        "2025": 645.64
+      }
+    },
+    {
+      "id": "kor",
+      "name": "South Korea",
+      "kind": "country",
+      "value": 624.66,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 577.11,
+        "2021": 607.76,
+        "2022": 622.59,
+        "2023": 617.49,
+        "2024": 625.38,
+        "2025": 624.66
+      }
+    },
+    {
+      "id": "deu",
+      "name": "Germany",
+      "kind": "country",
+      "value": 520.27,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 547.72,
+        "2021": 560.25,
+        "2022": 539.62,
+        "2023": 515.94,
+        "2024": 522.26,
+        "2025": 520.27
+      }
+    },
+    {
+      "id": "fra",
+      "name": "France",
+      "kind": "country",
+      "value": 476.66,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 482.21,
+        "2021": 505.42,
+        "2022": 483.39,
+        "2023": 468.28,
+        "2024": 471.8,
+        "2025": 476.66
+      }
+    },
+    {
+      "id": "sau",
+      "name": "Saudi Arabia",
+      "kind": "country",
+      "value": 454.59,
+      "year": 2024,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 380.53,
+        "2021": 392.91,
+        "2022": 409.8,
+        "2023": 429.21,
+        "2024": 454.59
+      }
+    },
+    {
+      "id": "mex",
+      "name": "Mexico",
+      "kind": "country",
+      "value": 356.66,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 329.74,
+        "2021": 327.63,
+        "2022": 339.88,
+        "2023": 350.66,
+        "2024": 354.87,
+        "2025": 356.66
+      }
+    },
+    {
+      "id": "idn",
+      "name": "Indonesia",
+      "kind": "country",
+      "value": 372.5,
+      "year": 2024,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 293.37,
+        "2021": 310.33,
+        "2022": 334.34,
+        "2023": 351.49,
+        "2024": 372.5
+      }
+    },
+    {
+      "id": "gbr",
+      "name": "United Kingdom",
+      "kind": "country",
+      "value": 321.38,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 328.55,
+        "2021": 332.64,
+        "2022": 320.28,
+        "2023": 315.83,
+        "2024": 317.35,
+        "2025": 321.38
+      }
+    },
+    {
+      "id": "tur",
+      "name": "Turkey",
+      "kind": "country",
+      "value": 351.93,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 301.41,
+        "2021": 326.03,
+        "2022": 323.29,
+        "2023": 323.81,
+        "2024": 340.24,
+        "2025": 351.93
+      }
+    },
+    {
+      "id": "ita",
+      "name": "Italy",
+      "kind": "country",
+      "value": 311.6,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 309.01,
+        "2021": 328.28,
+        "2022": 323.16,
+        "2023": 312.8,
+        "2024": 318.56,
+        "2025": 311.6
+      }
+    },
+    {
+      "id": "twn",
+      "name": "Taiwan",
+      "kind": "country",
+      "value": 288.39,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 279.99,
+        "2021": 291.03,
+        "2022": 288.19,
+        "2023": 282.28,
+        "2024": 288.56,
+        "2025": 288.39
+      }
+    },
+    {
+      "id": "aus",
+      "name": "Australia",
+      "kind": "country",
+      "value": 286.34,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 265.15,
+        "2021": 267.45,
+        "2022": 272.92,
+        "2023": 273.11,
+        "2024": 281.64,
+        "2025": 286.34
+      }
+    },
+    {
+      "id": "esp",
+      "name": "Spain",
+      "kind": "country",
+      "value": 275.1,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 262.75,
+        "2021": 271.6,
+        "2022": 267.35,
+        "2023": 265.15,
+        "2024": 270.71,
+        "2025": 275.1
+      }
+    },
+    {
+      "id": "vnm",
+      "name": "Vietnam",
+      "kind": "country",
+      "value": 313.59,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 245.51,
+        "2021": 254.43,
+        "2022": 267.43,
+        "2023": 280.07,
+        "2024": 307.18,
+        "2025": 313.59
+      }
+    },
+    {
+      "id": "zaf",
+      "name": "South Africa",
+      "kind": "country",
+      "value": 236.84,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 236.92,
+        "2021": 241.89,
+        "2022": 237.66,
+        "2023": 232.4,
+        "2024": 246.22,
+        "2025": 236.84
+      }
+    },
+    {
+      "id": "swe",
+      "name": "Sweden",
+      "kind": "country",
+      "value": 137.11,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 138.78,
+        "2021": 146.21,
+        "2022": 139.83,
+        "2023": 137.56,
+        "2024": 138.71,
+        "2025": 137.11
+      }
+    },
+    {
+      "id": "nor",
+      "name": "Norway",
+      "kind": "country",
+      "value": 137.71,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 133.85,
+        "2021": 139.55,
+        "2022": 132.9,
+        "2023": 135.89,
+        "2024": 138.67,
+        "2025": 137.71
+      }
+    },
+    {
+      "id": "nld",
+      "name": "Netherlands",
+      "kind": "country",
+      "value": 121.11,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 119.3,
+        "2021": 121.14,
+        "2022": 115.69,
+        "2023": 114.3,
+        "2024": 118.11,
+        "2025": 121.11
+      }
+    },
+    {
+      "id": "irl",
+      "name": "Ireland",
+      "kind": "country",
+      "value": 37.64,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 32.01,
+        "2021": 33.33,
+        "2022": 34.04,
+        "2023": 34.82,
+        "2024": 36.14,
+        "2025": 37.64
+      }
+    },
+    {
+      "id": "sgp",
+      "name": "Singapore",
+      "kind": "country",
+      "value": 60.44,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "National electricity demand, including system losses",
+      "source": "ember",
+      "series": {
+        "2020": 53.07,
+        "2021": 55.79,
+        "2022": 57.1,
+        "2023": 57.4,
+        "2024": 59.63,
+        "2025": 60.44
+      }
+    },
+    {
+      "id": "ai",
+      "name": "AI-focused data centres",
+      "kind": "ai",
+      "value": 155,
+      "year": 2025,
+      "status": "Estimated",
+      "scope": "Global AI-focused facilities, including cooling and support",
+      "source": "owid"
+    },
+    {
+      "id": "dc",
+      "name": "All data centres",
+      "kind": "ai",
+      "value": 485,
+      "year": 2025,
+      "status": "Estimated",
+      "scope": "Global data centres; AI included; excludes cryptocurrency mining",
+      "source": "iea"
+    },
+    {
+      "id": "shanghai",
+      "name": "Shanghai",
+      "kind": "city",
+      "value": 198.4,
+      "year": 2024,
+      "status": "Reported",
+      "scope": "Entire municipality · includes industrial districts",
+      "source": "shanghai"
+    },
+    {
+      "id": "beijing",
+      "name": "Beijing",
+      "kind": "city",
+      "value": 138.94,
+      "year": 2024,
+      "status": "Reported",
+      "scope": "Entire municipality",
+      "source": "beijing"
+    },
+    {
+      "id": "singapore-city",
+      "name": "Singapore",
+      "kind": "city",
+      "value": 58,
+      "year": 2024,
+      "status": "Reported",
+      "scope": "City-state · final consumption, rounded",
+      "source": "singapore"
+    },
+    {
+      "id": "new-york",
+      "name": "New York City",
+      "kind": "city",
+      "value": 50,
+      "year": "2024 ref.",
+      "status": "Approximate",
+      "scope": "NYC · approximate annual benchmark, citing NYISO 2024",
+      "source": "nyc"
+    },
+    {
+      "id": "london",
+      "name": "London",
+      "kind": "city",
+      "value": 34.800715594,
+      "year": 2024,
+      "status": "Reported",
+      "scope": "Greater London · metered electricity only",
+      "source": "london"
+    },
+    {
+      "id": "google",
+      "name": "Google",
+      "kind": "company",
+      "value": 43.5866,
+      "year": 2025,
+      "status": "Reported",
+      "scope": "Company operations · data centres + offices · calendar year",
+      "source": "google",
+      "series": {
+        "2021": 18.0583,
+        "2022": 21.5864,
+        "2023": 24.994,
+        "2024": 31.7139,
+        "2025": 43.5866
+      },
+      "dc": 42.4158
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "kind": "company",
+      "value": 37.026353,
+      "year": "FY2025",
+      "status": "Reported",
+      "scope": "Company operations · fiscal year ended 30 June 2025",
+      "source": "microsoft",
+      "series": {
+        "2021": 13.621517,
+        "2022": 18.153454,
+        "2023": 23.567502,
+        "2024": 29.82954,
+        "2025": 37.026353
+      }
+    },
+    {
+      "id": "meta",
+      "name": "Meta",
+      "kind": "company",
+      "value": 18.423634,
+      "year": 2024,
+      "status": "Reported",
+      "scope": "Company operations · data centres + offices · calendar year",
+      "source": "meta",
+      "series": {
+        "2021": 9.420839,
+        "2022": 11.508131,
+        "2023": 15.325314,
+        "2024": 18.423634
+      },
+      "dc": 18.061781
+    },
+    {
+      "id": "tsmc",
+      "name": "TSMC",
+      "kind": "other",
+      "value": 25.53408,
+      "year": 2024,
+      "status": "Derived",
+      "scope": "Purchased electricity · all chip manufacturing and company operations",
+      "source": "tsmc"
+    },
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin mining",
+      "kind": "other",
+      "value": 138,
+      "year": "Jun 2024 run rate",
+      "status": "Estimated",
+      "scope": "Annualised global mining electricity, not annual measured consumption",
+      "source": "bitcoin"
+    }
+  ],
+  "sources": [
+    {
+      "id": "ember",
+      "title": "Ember / Our World in Data · Electricity demand",
+      "url": "https://ourworldindata.org/grapher/electricity-demand",
+      "detail": "Annual demand, TWh. Includes grid losses and own-use as defined by Ember; derived from generation and net imports. Country and world series downloaded 14 September 2026.",
+      "license": "Ember CC BY 4.0; OWID CC BY"
+    },
+    {
+      "id": "iea",
+      "title": "IEA · Key Questions on Energy and AI (2026)",
+      "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary",
+      "detail": "2025 data-centre estimate: about 485 TWh. 2030 base case: about 950 TWh. AI-focused facilities approximately triple. Projections are scenarios, not commitments.",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "iea-ai",
+      "title": "IEA · Key Questions on Energy and AI, Figure 1.5",
+      "url": "https://iea.blob.core.windows.net/assets/3179f7f8-01f6-4dd6-bffa-c9f7b73f1dc9/KeyQuestionsonEnergyandAI.pdf",
+      "detail": "AI-focused data-centre electricity reaches about 465 TWh in the 2030 base case. Definition includes supporting infrastructure in AI-focused facilities.",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "owid",
+      "title": "Our World in Data · How much energy do data centres and AI use?",
+      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
+      "detail": "2025 AI-focused estimate of 155 TWh, based on IEA (2026). This is a facility-level proxy, not a workload-by-workload meter reading.",
+      "license": "CC BY"
+    },
+    {
+      "id": "shanghai",
+      "title": "Shanghai government · Power sustainability indicators, 2024",
+      "url": "https://www.shanghai.gov.cn/gwk/search/content/85542effedb547708e2cd04221c5a80a",
+      "detail": "198.4 TWh in 2024. Whole municipality; includes industry and surrounding districts, not just the urban core."
+    },
+    {
+      "id": "beijing",
+      "title": "Beijing government · Public utilities, 2024",
+      "url": "https://www.beijing.gov.cn/renwen/bjgk/rmsh/gysy/202503/t20250325_4043728.html",
+      "detail": "138.94 TWh in 2024. Electricity used across the Beijing municipality."
+    },
+    {
+      "id": "singapore",
+      "title": "Energy Market Authority · Singapore Energy Statistics",
+      "url": "https://www.ema.gov.sg/resources/singapore-energy-statistics/chapter3",
+      "detail": "Approximately 58 TWh consumed in 2024. City-state final electricity consumption; different from Ember system demand."
+    },
+    {
+      "id": "nyc",
+      "title": "NYC Mayor’s Office of Climate · Energy systems",
+      "url": "https://climate.cityofnewyork.us/subtopics/systems/",
+      "detail": "Approximately 50,000 GWh per year, citing NYISO (2024). Used as a rounded reference scale, not an exact annual observation."
+    },
+    {
+      "id": "london",
+      "title": "UK DESNZ · Regional electricity consumption, 2005–2024",
+      "url": "https://www.gov.uk/government/statistics/regional-and-local-authority-electricity-consumption-statistics",
+      "detail": "2024 workbook, London row, total consumption/all meters: 34,800.715594 GWh. Greater London; metered consumption excludes electricity self-consumed from on-site generation.",
+      "license": "Open Government Licence v3.0"
+    },
+    {
+      "id": "google",
+      "title": "Google · 2026 Environmental Report, page 93",
+      "url": "https://sustainability.google/files/1699a2e19277e478b38a659f00cb38398a836e8c/download-1699a2e1.pdf#page=93",
+      "detail": "Total operational electricity, 2021–2025, from the same restated series. 2025: 43,586,600 MWh; data centres: 42,415,800 MWh. Not an AI-only figure."
+    },
+    {
+      "id": "microsoft",
+      "title": "Microsoft · 2026 Environmental Data Fact Sheet, Table 5",
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf#page=6",
+      "detail": "Electricity within the organization. FY2025: 37,026,353 MWh. Fiscal year ends 30 June. Includes cloud and other operations; AI share not separated."
+    },
+    {
+      "id": "meta",
+      "title": "Meta · 2025 Environmental Data Index, page 6",
+      "url": "https://sustainability.atmeta.com/asset/2025-environmental-data-index/#page=6",
+      "detail": "2024 total electricity: 18,423,634 MWh. Data centres: 18,061,781 MWh. Calendar-year company operations; includes social media and other workloads."
+    },
+    {
+      "id": "tsmc",
+      "title": "TSMC · 2024 Sustainability Report, page 120",
+      "url": "https://esg.tsmc.com.tw/en-US/file/public/2024-TSMC-Sustainability-Report-e.pdf#page=120",
+      "detail": "Approximate purchased electricity derived from 27,456 GWh total energy × 93.0% electricity = 25.5 TWh. Entire manufacturer, across all customers and chip applications; not AI-specific."
+    },
+    {
+      "id": "bitcoin",
+      "title": "Cambridge · Digital Mining Industry Report (April 2025)",
+      "url": "https://www.jbs.cam.ac.uk/wp-content/uploads/2025/04/2025-04-cambridge-digital-mining-industry-report.pdf#page=9",
+      "detail": "138 TWh annualised Bitcoin electricity estimate at the June 2024 reference point. A run rate, not a measured calendar-year total. Separate from the IEA data-centre boundary."
+    },
+    {
+      "id": "networks",
+      "title": "Mytton et al. · Network energy use and the power model (2024)",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/jiec.13512",
+      "detail": "Reports the IEA estimate of 260–360 TWh for global data-transmission networks in 2022. Covers all traffic, not just AI; traffic growth does not directly translate into proportional electricity growth."
+    },
+    {
+      "id": "ireland",
+      "title": "CSO Ireland · Data Centres Metered Electricity Consumption 2025",
+      "url": "https://www-cloud.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2025/keyfindings/",
+      "detail": "2025: data centres 7.663 TWh out of 32.986 TWh metered electricity (23% rounded). Includes all data-centre workloads."
+    },
+    {
+      "id": "podcast",
+      "title": "Dwarkesh Podcast × Dylan Patel · 25 August 2026",
+      "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+      "detail": "Inspiration, not a measured energy dataset. At 00:00–07:01, the discussion extrapolates lab compute capacity at roughly 6 → 18 → 54 GW per lab at the end of 2026 → 2027 → 2028. Power boundary and utilization are not fully specified."
+    },
+    {
+      "id": "openai",
+      "title": "OpenAI · Five new Stargate sites, September 2025",
+      "url": "https://openai.com/index/five-new-stargate-sites/",
+      "detail": "Nearly 7 GW of planned capacity across announced Stargate projects. Project scope overlaps with partner infrastructure; not current annual consumption."
+    },
+    {
+      "id": "anthropic",
+      "title": "Anthropic · Compute partnership update, 6 May 2026",
+      "url": "https://www.anthropic.com/news/higher-limits-spacex",
+      "detail": "More than 300 MW of Colossus 1 capacity; up to 5 GW with Amazon; 5 GW with Google/Broadcom beginning in 2027. Agreements have different schedules and must not be added to provider electricity totals."
+    }
+  ],
+  "forecast": {
+    "2025": {
+      "ai": 155,
+      "other": 330,
+      "total": 485
+    },
+    "2030": {
+      "ai": 465,
+      "other": 485,
+      "total": 950
+    }
+  },
+  "worldByYear": {
+    "2024": 30930.23,
+    "2025": 31772.35
+  }
+}
